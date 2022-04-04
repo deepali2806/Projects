@@ -1,7 +1,7 @@
 # Projects
-Projects/implmentations done during Engineering
+Projects/implmentations done during Computer Engineering - Bachelors and Masters
 
-## A Star Search Algorithm
+## A* (A Star) Search Algorithm
 
 It is a path search algorithm widely used in AI to navigate robots in completely known terrains. 
 It finds the shortest obstacle-free path in a given graph or grid.
@@ -13,13 +13,14 @@ Here is the [motion planning pdf](https://www.cs.cmu.edu/~motionplanning/lecture
 ## Socket Programming
 
 A folder named Socket programming contains basic socket programming to communicate between server and client. 
-The working of the program is similar to any client-server application using sockets. The difference lies in how it uses OOP (Object Oriented Programming) concepts. It exercises the knowledge of OOP like Classes, constructors, Error handling, public-private functions, and their scopes in actual implementation to make it more robust, readable, and maintainable.
+
+The working of the program is similar to any client-server application using sockets. The difference lies in how it uses OOP (Object Oriented Programming) concepts. It exercises OOP knowledge like Classes, constructors, Error handling, public-private functions, and their scopes in actual implementation to make it more robust, readable, and maintainable.
 
 Given program has a server that continuously looks for any client connections, If a client is connected to the server, it will read data from the client and sends some additional data back to the client.
 
 # Parallelizing Linux Utilities
 
-This another project which is done using Cuda programming to parallelise Grep and Sort commands in Linux. 
-Here is the link for this course [project] (https://github.com/deepali2806/Parallelizing-Linux-Utitilites).
+This is another project implemented on GPU using Cuda programming language to parallelize Grep and Sort commands in Linux. It shows impressive performance benefits once the input data is fed in the desired manner. 
+Here is the link for this course [project](https://github.com/deepali2806/Parallelizing-Linux-Utitilites).
 
 
