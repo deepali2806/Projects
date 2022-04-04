@@ -17,4 +17,9 @@ The working of the program is similar to any client-server application using soc
 
 Given program has a server that continuously looks for any client connections, If a client is connected to the server, it will read data from the client and sends some additional data back to the client.
 
+# Parallelizing Linux Utilities
+
+This another project which is done using Cuda programming to parallelise Grep and Sort commands in Linux. 
+Here is the link for this course [project] (https://github.com/deepali2806/Parallelizing-Linux-Utitilites).
+
 
